@@ -1,3 +1,10 @@
+# 👋 Olá! Eu sou o Weslley Felix.
+
+Atuo com Arquitetura e Implementação de projetos de Big Data & AI. Este repositório é onde compartilho um pouco do meu trabalho e das minhas experiências nessa área. Sinta-se à vontade para explorar e colaborar!
+
+<br>
+
+
 <div align="center">
   <a href="https://github.com/weslleyfelix">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=weslleyfelix&show_icons=true&theme=midnight-purple&include_all_commits=true"/>
